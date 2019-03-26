@@ -30,6 +30,8 @@ gem 'jbuilder', '~> 2.5'
 gem 'haml', '~> 5.0', '>= 5.0.4'
 gem 'simple_form', '~> 4.1'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
+gem 'jquery-rails'
+gem 'popper_js', '~> 1.14.5'
 gem 'devise'
 
 # Use ActiveStorage variant
