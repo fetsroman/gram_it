@@ -34,6 +34,7 @@ gem 'jquery-rails'
 gem 'popper_js', '~> 1.14.5'
 gem 'devise'
 gem "paperclip", "~> 6.0.0"
+gem 'masonry-rails'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
